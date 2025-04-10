@@ -1,6 +1,6 @@
 # RayTracer
 
-This project was developed in just **6 days** at **ENSTA Paris** as part of the course **CSC_4IN04_TA**, in collaboration with my classmate. The goal was to implement a basic ray tracing engine from scratch, progressively building up features to render simple 3D scenes with realistic lighting.
+This project was developed in just **6 days** at **ENSTA Paris** as part of the course **CSC_4IN04_TA**, in collaboration with my classmate(Yassine ZANNED). The goal was to implement a basic ray tracing engine from scratch, progressively building up features to render simple 3D scenes with realistic lighting.
 
 ## 📅 Project Timeline
 
