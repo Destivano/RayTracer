@@ -6,6 +6,7 @@
 ![tinyxml2](https://img.shields.io/badge/XML-tinyxml2-orange?style=flat-square)
 ![stb_image_write](https://img.shields.io/badge/PNG-stb__image__write-brightgreen?style=flat-square)
 ![Status](https://img.shields.io/badge/status-learning%20project-blueviolet?style=flat-square)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
 
 No engine, no framework, no GPU — just vectors, rays, and a lot of dot products. Built over **6 days** at **ENSTA Paris** for course **CSC_4IN04_TA**, in collaboration with classmate Yassine ZANNED.
 
@@ -139,4 +140,4 @@ This was a 6-day learning project focused on understanding ray tracing fundament
 
 ## License
 
-No license file is currently included in this repository.
+This project is licensed under the [MIT License](LICENSE).
